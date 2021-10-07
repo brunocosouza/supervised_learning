@@ -1,2 +1,2 @@
 # supervised_learning
-Supervised Learning at Unicamp
+Supervised Learning course at Unicamp
